@@ -6,7 +6,7 @@ Checklist de testes de um aplicativo móvel de pedido de comida com retirada em 
 Validar o fluxo do pedido (escolha do ponto de coleta e do restaurante, lista de pratos, valor total, acompanhamento e conclusão) e a exibição correta dos preços.
 
 ## Resultado
-- Checklist com 47 itens, executado em emulador.
+- Checklist com 46 itens, executado em emulador.
 - 8 bugs registrados no Jira: 7 preços de pratos diferentes dos definidos na especificação e 1 problema de formatação na descrição de uma bebida.
 
 ## Ferramentas utilizadas
